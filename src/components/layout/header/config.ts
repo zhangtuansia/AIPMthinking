@@ -51,6 +51,7 @@ export const headerMenuConfig: IHeaderMenu[] = [
     title: '时光',
     icon: h(FaSolidHistory),
     path: '/timeline',
+   /*
     subMenu: [
       {
         title: '手记',
@@ -75,7 +76,9 @@ export const headerMenuConfig: IHeaderMenu[] = [
         }),
       },
     ],
+    */
   },
+  /*
   {
     title: '友链',
     icon: h(FaSolidUserFriends),
@@ -109,4 +112,5 @@ export const headerMenuConfig: IHeaderMenu[] = [
       },
     ],
   },
+  */
 ]
