@@ -233,6 +233,7 @@ const windsock = [
     icon: FaSolidHistory,
     path: '/timeline',
   },
+  /*
   {
     title: '朋友们',
     icon: FaSolidUserFriends,
@@ -258,6 +259,7 @@ const windsock = [
     icon: RMixPlanet,
     path: 'https://travel.moe/go.html',
   },
+  */
 ]
 
 const Windsock = () => {
